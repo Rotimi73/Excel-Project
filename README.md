@@ -30,8 +30,8 @@ The `retail_sales.csv` dataset contains transaction-level sales data with the fo
 ## Tools Used
 
   * Microsoft Excel**: Pivot Tables, Data Cleaning, Charts
-  * Python (Pandas)**: Data preprocessing, exploration, and advanced analysis
-  * SQL**: Aggregations, filtering, grouping, subqueries
+
+
 
 
 ## Project Workflow
