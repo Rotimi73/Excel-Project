@@ -134,7 +134,15 @@ totaal sales for male in Electronics category =sumifs(k2: k1001, j2: j1001, "Ele
 ![image](https://github.com/user-attachments/assets/e9b0f6ef-66c7-4655-8812-815165dda8aa)
 
 
-![image](https://github.com/user-attachments/assets/ced081a4-945c-4aca-8a72-e3933c28a2c2)
+
+![image](https://github.com/user-attachments/assets/6524c100-4ddc-4416-943b-d99106d9d3ed)
+
+
+
+
+
+
+
 
 
 
