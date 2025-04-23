@@ -18,7 +18,7 @@ The dataset includes transaction-level sales data with customer and product deta
 
 ## Overview
 
-This project explores retail sales data to uncover business trends, customer behavior, and product performance using **Excel**, **Python (Pandas)**, and **SQL**. The goal is to provide insights that drive decisions in inventory management, marketing strategy, and profitability.
+This project explores retail sales data to uncover business trends, customer behavior, and product performance using **Excel**, The goal is to provide insights that drive decisions in inventory management, marketing strategy, and profitability.
 
 ## 🗂️ Dataset
 
