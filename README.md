@@ -29,7 +29,7 @@ The `retail_sales.csv` dataset contains transaction-level sales data with the fo
 
 ## Tools Used
 
-  * Microsoft Excel**: Pivot Tables, Data Cleaning, Charts
+  * Microsoft Excel**:spreadsheet, Pivot Tables, Data Cleaning, Charts
 
 
 
