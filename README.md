@@ -133,7 +133,11 @@ totaal sales for male in Electronics category =sumifs(k2: k1001, j2: j1001, "Ele
 
 ![image](https://github.com/user-attachments/assets/e9b0f6ef-66c7-4655-8812-815165dda8aa)
 
-![image](https://github.com/user-attachments/assets/bce91933-707b-4a8a-8984-22e0124161ab)
+
+![image](https://github.com/user-attachments/assets/ced081a4-945c-4aca-8a72-e3933c28a2c2)
+
+
+
 
  Here I used pivot table and slicing to filter and sort the data
 
