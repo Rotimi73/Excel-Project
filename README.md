@@ -73,69 +73,10 @@ The `retail_sales.csv` dataset contains transaction-level sales data with the fo
 
 ![image](https://github.com/user-attachments/assets/7886420a-4175-4f04-884b-fb537d8639f4)
 ![image](https://github.com/user-attachments/assets/41129133-f10b-48e9-b4fd-349b981e2e99)
-
-product Category
-
-
-
-List Unique Product Categories
-To extract a list of all unique product categories from column `J` (assumed to be `Product_Category`):
-
-excel
-=UNIQUE(J2:J1000)
-
-
-![image](https://github.com/user-attachments/assets/1171ccd1-87eb-4499-8561-89cbe9091ca1)
-
-
-total sales =sum(M:M)
-
-total sales for Clothing =sum(j2: j1001, "Clothing", m2: m1001)
-
-total sales for Beauty =sum(j2: j1001, "Beauty", m2: m1001)
-
-totaal sales for Electronics =sum(j2: j1001, "electronics", m2: m1001) 
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/754fc980-a279-4f6f-a701-dbec673d4bbd)
-
-
-
-
-This total sales can be used to compare last year's sales and it can be used to predict next year sales.
-
-
-
-
-
-
- 
-
-
-total sales for male in Clothing category =sumifs(k2: k1001, j2: j1001, "Clothing", G2: G1001, "Male")
-
-total sales for male in Beauty category =sumifs(k2: k1001, j2: j1001, "Beauty", G2: G1001, "Male")
- 
-totaal sales for male in Electronics category =sumifs(k2: k1001, j2: j1001, "Electronics", G2: G1001, "Male")
-   
-
-
-
-
-
-
-
-
- 
-
 ![image](https://github.com/user-attachments/assets/e9b0f6ef-66c7-4655-8812-815165dda8aa)
 
 
 
-![image](https://github.com/user-attachments/assets/6524c100-4ddc-4416-943b-d99106d9d3ed)
 
 
 
@@ -147,14 +88,6 @@ totaal sales for male in Electronics category =sumifs(k2: k1001, j2: j1001, "Ele
 
 
 
- Here I used pivot table and slicing to filter and sort the data
-
-
-![image](https://github.com/user-attachments/assets/fb306f15-db84-4cf7-ab2c-75cad223dabe)
-
-
-
- 
 
  
 
