@@ -70,7 +70,7 @@ The `retail_sales.csv` dataset contains transaction-level sales data with the fo
 
 
  
-
+Retails_sales from A and B Superstore
 ![image](https://github.com/user-attachments/assets/7886420a-4175-4f04-884b-fb537d8639f4)
 ![image](https://github.com/user-attachments/assets/41129133-f10b-48e9-b4fd-349b981e2e99)
 
