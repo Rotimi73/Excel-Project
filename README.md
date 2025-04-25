@@ -80,14 +80,23 @@ I got my data, Retails Sales,  from A and B Superstore. I have changed the  name
 
 Objectives.
 From the raw data, the management wants to know 
+
 the category of products sold, 
+
 which product is making the most sales,
+
 which of the gender is patronising their business 
+
 and the overall total sales 
 
 
 Tools.
-For this project,  I used excel functions, bar chart, pivot table and slicing tools in the excel spreadsheet.  
+For this project,  
+excel functions, 
+
+bar chart, 
+pivot table and 
+slicing tools in the excel spreadsheet.  
 
 Practical example. 
 I used the unique function =UNIQUE(product category column)  to determine the product category and sum function  total sales =sum(M:M) to generate the total sales. If I did not want to use the function, i can use the pivot table
