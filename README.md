@@ -106,8 +106,9 @@ I also used the slicing tool to clean the data and display a specific data.
 For example. Using the bar chart, I displayed only the electronics section for the female and male sections according to the age group. 
 
 
-Results
+Findings
  From the data analysed using the excel, I was able to generate these meaningful results.
+
 There are 3 product categories naming clothing, beauty and electronics.
 
 ![image](https://github.com/user-attachments/assets/4d799b1c-5aa5-4731-9928-092b6e8e4d04)
@@ -133,7 +134,10 @@ Electronics £156,905.00
 
 
  
-Clothing category was the most patronised product (894 sold) while Beauty was the least patronised product (771) both from the male and female  sections.In terms of sales, Electronics had the highest sales while beauty recorded the least sales. 
+Clothing category was the most patronised product (894 sold) while Beauty was the least patronised product (771) both from the male and female  sections.
+
+In terms of sales, Electronics had the highest sales while beauty recorded the least sales. 
+
 Overall there are more sales in female sections than the male sections which I used the bar chart to present. 
 
 
