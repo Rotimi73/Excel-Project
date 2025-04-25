@@ -72,10 +72,13 @@ The `retail_sales.csv` dataset contains transaction-level sales data with the fo
  
 Retails_sales from A and B Superstore
 ![image](https://github.com/user-attachments/assets/7886420a-4175-4f04-884b-fb537d8639f4)
-![image](https://github.com/user-attachments/assets/41129133-f10b-48e9-b4fd-349b981e2e99)
+
 
 My project is an excel based-project 
-I got my data, Retails Sales,  from A and B Superstore. I have changed the  name because of the confidentiality as provided for in the Data protection Act.
+
+Data Source
+
+Retails Sales,  from A and B Superstore. I have changed the  name because of the confidentiality as provided for in the Data protection Act.
 
 
 Objectives.
